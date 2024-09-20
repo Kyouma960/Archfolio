@@ -30,15 +30,15 @@ const apps: AppsData[] = [
     content: <Typora />
   },
   {
-    id: "safari",
-    title: "Safari",
+    id: "brave",
+    title: "Brave",
     desktop: true,
     width: 1024,
     minWidth: 375,
     minHeight: 200,
     x: -20,
-    img: "img/icons/safari.png",
-    content: <Safari />
+    img: "img/icons/brave.png",
+    content: <Brave />
   },
   {
     id: "vscode",
@@ -77,7 +77,7 @@ const apps: AppsData[] = [
     title: "Github",
     desktop: false,
     img: "img/icons/github.png",
-    link: "https://github.com/Renovamen/playground-macos"
+    link: "https://github.com/Kyouma960"
   }
 ];
 

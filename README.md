@@ -1,6 +1,6 @@
 # playground-macos
 
-My portfolio website simulating macOS's GUI: https://portfolio.zxh.me
+My portfolio website simulating Arch's RICE GUI: https://portfolio.gautamnitesh.me
 
 Powered by [React](https://reactjs.org/) + [Zustand](https://zustand-demo.pmnd.rs/) + [UnoCSS](https://uno.antfu.me/) + [TypeScript](https://www.typescriptlang.org/) + [Vite](https://vitejs.dev/).
 
@@ -46,14 +46,6 @@ pnpm build
 
 &nbsp;
 
-## Credits
-
-- macOS
-  - [Monterey](https://www.apple.com/macos/monterey/)
-  - [Catalina](https://www.apple.com/bw/macos/catalina/)
-- [macOS Icon Gallery](https://www.macosicongallery.com/)
-- [sindresorhus/file-icon-cli](https://github.com/sindresorhus/file-icon-cli)
-- [vivek9patel.github.io](https://github.com/vivek9patel/vivek9patel.github.io)
 
 
 &nbsp;

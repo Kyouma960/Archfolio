@@ -173,7 +173,7 @@ const TopBar = (props: TopBarProps) => {
           onClick={toggleAppleMenu}
           ref={appleBtnRef}
         >
-          <span className="i-ri:apple-fill text-base" />
+          <span className="i-devicon:archlinux text-base" />
         </TopBarItem>
         <TopBarItem
           className="font-semibold px-2"

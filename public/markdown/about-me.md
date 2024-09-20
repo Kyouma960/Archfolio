@@ -2,31 +2,27 @@
 
 ## Biography
 
-Hey there! I am a PhD student at the [Computer Science and Engineering](https://www.eecs.psu.edu/) department of [Pennsylvania State University](https://www.psu.edu/). Previously, I received my master's degree in [Computer Science](https://www.bu.edu/cs/) from [Boston University](https://www.bu.edu/) and my bachelor’s degree in [Software Engineering](http://sse.tongji.edu.cn/) from [Tongji University](https://www.tongji.edu.cn/).
+Hey there! I am Nitesh Gautam. I am a Bachelor's student at the [Lappeenranta-Lahti University of Technology](https://www.lut.fi/en). I have received my High School Diploma in [Computer Science](https://moecdc.gov.np/storage/gallery/1694337718.pdf) from [Kathmandu Model College](https://ktmmodelcollege.edu.np/) and my Primary Studies from [Mount Makalu School](https://www.facebook.com/p/Mt-Makalu-Residential-Secondary-School-100064056280969/).
 
-I'm trying to find a balance between research and engineering.
+My current research interest and primarily focus is on understanding and enhancing the continuity, generalizability, efficiency, and other key properties of software and computer systems. I am also interested in penetration testing.
 
-My current research interests primarily focus on understanding and enhancing the continuity, generalizability, efficiency, and other key properties of machine learning. I am also interested in large multimodal models.
-
-I'm also learning web development and building machine learning software and systems.
+I'm also learning web development and building cloud automation systems and softwares.
 
 
 ## Contact
 
 Contact me by:
 
-- Email: [renovamenzxh@gmail.com](mailto:renovamenzxh@gmail.com)
-- Github: [@Renovamen](https://github.com/Renovamen)
-- [Google Scholar](https://scholar.google.com/citations?user=RuW6xgMAAAAJ)
-- Linkedin: [xiaohan-zou](https://www.linkedin.com/in/xiaohan-zou)
-- 知乎: [@西伯利亚大恶龙](https://www.zhihu.com/people/chao-neng-gui-su)
-- Personal Website: [zxh.me](https://zxh.me)
+- Email: [gautamnitesh960@gmail.com](mailto:gautamnitesh960@gmail.com)
+- Github (Unmaintained): [@Kyouma960](https://github.com/Kyouma960)
+- Personal Website: [gautamnitesh.me](https://gautamnitesh.me)
+- Facebook: [Nitesh Gautam](https://me-qr.com/2BKU4UiR)
+- WhatsApp: [0449258653](https://wa.me/qr/D4BNRHF6LCWVN1)
+- Telegram: [Nitesh Gautam](https://t.me/+358449258653)
 
 
 ## Résumé
 
-- Normal version: [English](https://zxh.me/files/cv/en.pdf) / [中文](https://zxh.me/files/cv/cn.pdf)
+- Normal version: [English](https://short-link.me/KMdR)
 
-  中文版的更新很可能不及时
-
-- Interesting version: [portfolio.zxh.me](https://portfolio.zxh.me) / [resume.zxh.io](https://resume.zxh.io)
+- Interesting version: [resume.gautamnitesh.me](https://resume.gautamnitesh.me)

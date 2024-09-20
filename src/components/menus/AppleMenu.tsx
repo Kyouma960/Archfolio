@@ -24,7 +24,7 @@ export default function AppleMenu({
   return (
     <div className="menu-box left-2 w-56" ref={ref}>
       <MenuItemGroup>
-        <MenuItem>About This Mac</MenuItem>
+        <MenuItem>About This PC</MenuItem>
       </MenuItemGroup>
       <MenuItemGroup>
         <MenuItem>System Preferences...</MenuItem>
@@ -43,7 +43,7 @@ export default function AppleMenu({
       </MenuItemGroup>
       <MenuItemGroup border={false}>
         <MenuItem onClick={logout}>Lock Screen</MenuItem>
-        <MenuItem onClick={logout}>Log Out Xiaohan Zou...</MenuItem>
+        <MenuItem onClick={logout}>Log Out Nitesh Gautam...</MenuItem>
       </MenuItemGroup>
     </div>
   );
