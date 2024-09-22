@@ -1,4 +1,4 @@
-# playground-macos
+# Archfolio
 
 My portfolio website simulating Arch's RICE GUI: https://portfolio.gautamnitesh.me
 
