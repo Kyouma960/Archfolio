@@ -1,39 +1,18 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/ec559a9f6bfd399b82bb44393651661b08aaf7ba/icons/folder-markdown-open.svg" width="20%" alt="ARCHFOLIO-logo">
-</p>
-<p align="center">
-    <h1 align="center">ARCHFOLIO</h1>
-</p>
-<p align="center">
-    <em>Code with motion, craft experiences that soar!</em>
-</p>
-<p align="center">
-	<img src="https://img.shields.io/github/license/Kyouma960/ArchFolio?style=default&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
-	<img src="https://img.shields.io/github/last-commit/Kyouma960/ArchFolio?style=default&logo=git&logoColor=white&color=0080ff" alt="last-commit">
-	<img src="https://img.shields.io/github/languages/top/Kyouma960/ArchFolio?style=default&color=0080ff" alt="repo-top-language">
-	<img src="https://img.shields.io/github/languages/count/Kyouma960/ArchFolio?style=default&color=0080ff" alt="repo-language-count">
-</p>
-<p align="center">
-	<!-- default option, no dependency badges. -->
-</p>
-
-<br>
-
 #####  Table of Contents
 
-- [ Overview](#-overview)
-- [ Features](#-features)
-- [ Repository Structure](#-repository-structure)
-- [ Modules](#-modules)
-- [ Getting Started](#-getting-started)
-    - [ Prerequisites](#-prerequisites)
-    - [ Installation](#-installation)
-    - [ Usage](#-usage)
-    - [ Tests](#-tests)
-- [ Project Roadmap](#-project-roadmap)
-- [ Contributing](#-contributing)
-- [ License](#-license)
-- [ Acknowledgments](#-acknowledgments)
+- [ Overview](#overview)
+- [ Features](#features)
+- [ Repository Structure](#repository-structure)
+- [ Modules](#modules)
+- [ Getting Started](#getting-started)
+    - [ Prerequisites](#prerequisites)
+    - [ Installation](#installation)
+    - [ Usage](#usage)
+    - [ Tests](#tests)
+- [ Project Roadmap](#project-roadmap)
+- [ Contributing](#contributing)
+- [ License](#license)
+- [ Acknowledgments](#acknowledgments)
 
 ---
 
@@ -52,7 +31,6 @@ ArchFolio is an open-source portfolio project that offers a macOS-like user inte
 | 📄 | **Documentation** | The project includes detailed documentation through inline comments, configuration files, and GitHub Actions workflows. The documentation covers build scripts, linting configurations, UnoCSS settings, and deployment workflows, aiding developers in understanding and contributing to the project. |
 | 🔌 | **Integrations**  | Key integrations and dependencies include React libraries, framer-motion, Katex for math rendering, web-vitals for performance monitoring, and zustand for state management. GitHub Actions automate testing, building, and deployment processes, enhancing the development workflow. |
 | 🧩 | **Modularity**    | The codebase demonstrates modularity and reusability with components structured in a maintainable manner. The project follows a component-driven architecture, making it easy to extend and modify existing features while maintaining consistency and scalability. |
-| 🧪 | **Testing**       | Testing frameworks and tools used include lint-staged for pre-commit linting checks and GitHub Actions for automated testing. These tools ensure code quality, enforce best practices, and facilitate continuous integration and deployment processes. |
 | ⚡️  | **Performance**   | The project focuses on efficiency and speed, utilizing Vite for fast build times and optimized development experience. UnoCSS and Katex contribute to performance improvements in styling and math rendering, enhancing the overall user experience. |
 | 🛡️ | **Security**      | Security measures include linting rules for code quality, Husky for pre-commit hooks, and UnoCSS for consistent and secure styling practices. The project follows best practices for data protection, access control, and code security. |
 | 📦 | **Dependencies**  | Key external libraries and dependencies include React, framer-motion, Katex, web-vitals, zustand for state management, and UnoCSS for consistent styling. These dependencies enhance functionality, styling capabilities, and performance optimization within the project. |
