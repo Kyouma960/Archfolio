@@ -1,6 +1,6 @@
 # ArchFolio
 
-My portfolio website simulating Arch Linux's GUI: https://portfolio.gautamnitesh.me
+My portfolio website simulating Arch Linux GUI: https://portfolio.gautamnitesh.me
 
 Powered by [React](https://reactjs.org/) + [Zustand](https://zustand-demo.pmnd.rs/) + [UnoCSS](https://uno.antfu.me/) + [TypeScript](https://www.typescriptlang.org/) + [Vite](https://vitejs.dev/).
 
