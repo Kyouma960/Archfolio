@@ -1,4 +1,4 @@
-# playground-macos
+# ArchFolio
 
 My portfolio website simulating Arch Linux's GUI: https://portfolio.gautamnitesh.me
 
