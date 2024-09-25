@@ -5,6 +5,7 @@ My portfolio website simulating Arch Linux GUI: https://portfolio.gautamnitesh.m
 Powered by [React](https://reactjs.org/) + [Zustand](https://zustand-demo.pmnd.rs/) + [UnoCSS](https://uno.antfu.me/) + [TypeScript](https://www.typescriptlang.org/) + [Vite](https://vitejs.dev/).
 
 ![light mode](./public/screenshots/light.png)
+&nbsp;
 ![dark mode](./public/screenshots/dark.png)
 
 
