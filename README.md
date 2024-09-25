@@ -328,7 +328,6 @@ Contributions are welcome! Here are several ways you can contribute:
 - **[Submit Pull Requests](https://github.com/Kyouma960/ArchFolio/blob/main/CONTRIBUTING.md)**: Review open PRs, and submit your own PRs.
 - **[Join the Discussions](https://github.com/Kyouma960/ArchFolio/discussions)**: Share your insights, provide feedback, or ask questions.
 
-<details closed>
 <summary>Contributing Guidelines</summary>
 
 1. **Fork the Repository**: Start by forking the project repository to your github account.
@@ -351,17 +350,6 @@ Contributions are welcome! Here are several ways you can contribute:
    ```
 7. **Submit a Pull Request**: Create a PR against the original project repository. Clearly describe the changes and their motivations.
 8. **Review**: Once your PR is reviewed and approved, it will be merged into the main branch. Congratulations on your contribution!
-</details>
-
-<details closed>
-<summary>Contributor Graph</summary>
-<br>
-<p align="left">
-   <a href="https://github.com{/Kyouma960/ArchFolio/}graphs/contributors">
-      <img src="https://contrib.rocks/image?repo=Kyouma960/ArchFolio">
-   </a>
-</p>
-</details>
 
 ---
 
